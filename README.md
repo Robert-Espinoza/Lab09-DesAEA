@@ -1,3 +1,3 @@
-# Laboratorio07WPF
+# Laboratorio
 ------------------------------------------------------------------------
 CRUD Completo | DataBase Customers
